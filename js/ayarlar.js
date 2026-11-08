@@ -13,6 +13,7 @@ export function temaUygula() {
   else document.documentElement.dataset.theme = t;
   document.documentElement.style.setProperty("--ar-size", store.ayar.arBoy + "px");
   document.documentElement.style.setProperty("--tr-size", store.ayar.trBoy + "px");
+  document.documentElement.classList.toggle("ters-okunus", !!store.ayar.tersOkunus);
 }
 
 async function cuzUrlleri(c) {
@@ -49,7 +50,8 @@ export async function ayarlar(view, ctx) {
       <label style="margin-top:10px">Okunuş yazı boyutu: <span id="trV">${a.trBoy}</span></label>
       <input type="range" id="trBoy" min="10" max="22" value="${a.trBoy}">
       <div class="sample"><div class="kelimeler" style="justify-content:center">${ornek.k.map((w) => `<span class="k"><span class="ka">${w[0]}</span><span class="kt">${w[1]}</span></span>`).join("")}</div></div>
-      <div class="toggle" style="margin-top:8px"><span>Ayetin bitişik (ulamalı) okunuşunu da göster</span><input type="checkbox" id="bitisik"${a.bitisik ? " checked" : ""}></div>
+      <div class="toggle" style="margin-top:8px"><span>Okunuşu sağdan sola yaz (ör. bismi → imsib)</span><input type="checkbox" id="tersOkunus"${a.tersOkunus ? " checked" : ""}></div>
+      <div class="toggle"><span>Ayetin bitişik (ulamalı) okunuşunu da göster</span><input type="checkbox" id="bitisik"${a.bitisik ? " checked" : ""}></div>
       <label style="margin-top:8px" for="tema">Tema</label>
       <select id="tema"><option value="auto">Cihaza göre</option><option value="light">Açık</option><option value="dark">Koyu (gece)</option></select>
     </div>
@@ -84,6 +86,7 @@ export async function ayarlar(view, ctx) {
   $("tema").value = a.tema;
   $("kari").onchange = (e) => { store.setAyar("kari", e.target.value); ctx.calarYenile(); toast("Hafız değiştirildi"); };
   $("besmele").onchange = (e) => store.setAyar("besmele", e.target.checked);
+  $("tersOkunus").onchange = (e) => { store.setAyar("tersOkunus", e.target.checked); temaUygula(); };
   $("bitisik").onchange = (e) => store.setAyar("bitisik", e.target.checked);
   $("tema").onchange = (e) => { store.setAyar("tema", e.target.value); temaUygula(); };
   $("arBoy").oninput = (e) => { store.setAyar("arBoy", +e.target.value); $("arV").textContent = e.target.value; temaUygula(); };

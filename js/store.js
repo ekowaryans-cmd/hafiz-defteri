@@ -13,6 +13,7 @@ const VARSAYILAN = {
     arBoy: 34, trBoy: 13,
     tema: "auto",
     bitisik: true,
+    tersOkunus: true,   // okunuş harfleri sağdan sola (ör. bismi → imsib)
     besmele: true,
     hiz: 1,
   },

@@ -1,6 +1,6 @@
 // Çevrimdışı çalışma: uygulama ve tüm Kur'an metni ilk açılışta cihaza kaydedilir.
 // Uygulama dosyaları değiştiğinde SURUM artırılmalıdır (yayin_hazirla.py bunu otomatik yapar).
-const SURUM = "hafiz-d152709a59";
+const SURUM = "hafiz-b2a0a111fb";
 const KABUK = [
   "./", "index.html", "manifest.webmanifest", "css/app.css",
   "js/app.js", "js/data.js", "js/store.js", "js/audio.js", "js/oku.js", "js/ekranlar.js", "js/ayarlar.js", "js/ui.js",

@@ -232,3 +232,6 @@ main#view { padding-bottom: calc(var(--bar-h) + env(safe-area-inset-bottom) + 15
 .sheet-b.iptal { color: var(--muted); text-align: center; }
 @keyframes fade { from { opacity: 0; } }
 @keyframes up { from { transform: translateY(30px); opacity: 0; } }
+
+/* Okunuşu sağdan sola, harfleri ters dizerek göster (veri değişmez, yalnız görünüm) */
+.ters-okunus .kt, .ters-okunus .bitisik span { direction: rtl; unicode-bidi: bidi-override; }
