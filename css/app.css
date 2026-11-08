@@ -234,4 +234,5 @@ main#view { padding-bottom: calc(var(--bar-h) + env(safe-area-inset-bottom) + 15
 @keyframes up { from { transform: translateY(30px); opacity: 0; } }
 
 /* Okunuşu sağdan sola, harfleri ters dizerek göster (veri değişmez, yalnız görünüm) */
-.ters-okunus .kt, .ters-okunus .bitisik span { direction: rtl; unicode-bidi: bidi-override; }
+.ters-okunus .kt { direction: rtl; unicode-bidi: bidi-override; }
+/* ayetin tam okunuşu her zaman soldan sağa okunur */

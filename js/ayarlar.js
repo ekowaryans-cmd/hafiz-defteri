@@ -50,7 +50,7 @@ export async function ayarlar(view, ctx) {
       <label style="margin-top:10px">Okunuş yazı boyutu: <span id="trV">${a.trBoy}</span></label>
       <input type="range" id="trBoy" min="10" max="22" value="${a.trBoy}">
       <div class="sample"><div class="kelimeler" style="justify-content:center">${ornek.k.map((w) => `<span class="k"><span class="ka">${w[0]}</span><span class="kt">${w[1]}</span></span>`).join("")}</div></div>
-      <div class="toggle" style="margin-top:8px"><span>Okunuşu sağdan sola yaz (ör. bismi → imsib)</span><input type="checkbox" id="tersOkunus"${a.tersOkunus ? " checked" : ""}></div>
+      <div class="toggle" style="margin-top:8px"><span>Kelime altındaki okunuşu sağdan sola yaz (ör. bismi → imsib)</span><input type="checkbox" id="tersOkunus"${a.tersOkunus ? " checked" : ""}></div>
       <div class="toggle"><span>Ayetin bitişik (ulamalı) okunuşunu da göster</span><input type="checkbox" id="bitisik"${a.bitisik ? " checked" : ""}></div>
       <label style="margin-top:8px" for="tema">Tema</label>
       <select id="tema"><option value="auto">Cihaza göre</option><option value="light">Açık</option><option value="dark">Koyu (gece)</option></select>
