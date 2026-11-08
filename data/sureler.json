@@ -1,0 +1,1028 @@
+[
+{
+"s": 1,
+"ad": "Fatiha",
+"ar": "الفاتحة",
+"ayet": 7,
+"tur": "Mekki",
+"sayfa": 1,
+"cuz": 1
+},
+{
+"s": 2,
+"ad": "Bakara",
+"ar": "البقرة",
+"ayet": 286,
+"tur": "Medeni",
+"sayfa": 2,
+"cuz": 1
+},
+{
+"s": 3,
+"ad": "Ali İmran",
+"ar": "آل عمران",
+"ayet": 200,
+"tur": "Medeni",
+"sayfa": 50,
+"cuz": 3
+},
+{
+"s": 4,
+"ad": "Nisa",
+"ar": "النساء",
+"ayet": 176,
+"tur": "Medeni",
+"sayfa": 77,
+"cuz": 4
+},
+{
+"s": 5,
+"ad": "Maide",
+"ar": "المائدة",
+"ayet": 120,
+"tur": "Medeni",
+"sayfa": 106,
+"cuz": 6
+},
+{
+"s": 6,
+"ad": "Enam",
+"ar": "الأنعام",
+"ayet": 165,
+"tur": "Mekki",
+"sayfa": 128,
+"cuz": 7
+},
+{
+"s": 7,
+"ad": "Araf",
+"ar": "الأعراف",
+"ayet": 206,
+"tur": "Mekki",
+"sayfa": 151,
+"cuz": 8
+},
+{
+"s": 8,
+"ad": "Enfal",
+"ar": "الأنفال",
+"ayet": 75,
+"tur": "Medeni",
+"sayfa": 177,
+"cuz": 9
+},
+{
+"s": 9,
+"ad": "Tevbe",
+"ar": "التوبة",
+"ayet": 129,
+"tur": "Medeni",
+"sayfa": 187,
+"cuz": 10
+},
+{
+"s": 10,
+"ad": "Yunus",
+"ar": "يونس",
+"ayet": 109,
+"tur": "Mekki",
+"sayfa": 208,
+"cuz": 11
+},
+{
+"s": 11,
+"ad": "Hud",
+"ar": "هود",
+"ayet": 123,
+"tur": "Mekki",
+"sayfa": 221,
+"cuz": 11
+},
+{
+"s": 12,
+"ad": "Yusuf",
+"ar": "يوسف",
+"ayet": 111,
+"tur": "Mekki",
+"sayfa": 235,
+"cuz": 12
+},
+{
+"s": 13,
+"ad": "Rad",
+"ar": "الرعد",
+"ayet": 43,
+"tur": "Medeni",
+"sayfa": 249,
+"cuz": 13
+},
+{
+"s": 14,
+"ad": "İbrahim",
+"ar": "ابراهيم",
+"ayet": 52,
+"tur": "Mekki",
+"sayfa": 255,
+"cuz": 13
+},
+{
+"s": 15,
+"ad": "Hicr",
+"ar": "الحجر",
+"ayet": 99,
+"tur": "Mekki",
+"sayfa": 262,
+"cuz": 14
+},
+{
+"s": 16,
+"ad": "Nahl",
+"ar": "النحل",
+"ayet": 128,
+"tur": "Mekki",
+"sayfa": 267,
+"cuz": 14
+},
+{
+"s": 17,
+"ad": "İsra",
+"ar": "الإسراء",
+"ayet": 111,
+"tur": "Mekki",
+"sayfa": 282,
+"cuz": 15
+},
+{
+"s": 18,
+"ad": "Kehf",
+"ar": "الكهف",
+"ayet": 110,
+"tur": "Mekki",
+"sayfa": 293,
+"cuz": 15
+},
+{
+"s": 19,
+"ad": "Meryem",
+"ar": "مريم",
+"ayet": 98,
+"tur": "Mekki",
+"sayfa": 305,
+"cuz": 16
+},
+{
+"s": 20,
+"ad": "Taha",
+"ar": "طه",
+"ayet": 135,
+"tur": "Mekki",
+"sayfa": 312,
+"cuz": 16
+},
+{
+"s": 21,
+"ad": "Enbiya",
+"ar": "الأنبياء",
+"ayet": 112,
+"tur": "Mekki",
+"sayfa": 322,
+"cuz": 17
+},
+{
+"s": 22,
+"ad": "Hac",
+"ar": "الحج",
+"ayet": 78,
+"tur": "Medeni",
+"sayfa": 332,
+"cuz": 17
+},
+{
+"s": 23,
+"ad": "Müminun",
+"ar": "المؤمنون",
+"ayet": 118,
+"tur": "Mekki",
+"sayfa": 342,
+"cuz": 18
+},
+{
+"s": 24,
+"ad": "Nur",
+"ar": "النور",
+"ayet": 64,
+"tur": "Medeni",
+"sayfa": 350,
+"cuz": 18
+},
+{
+"s": 25,
+"ad": "Furkan",
+"ar": "الفرقان",
+"ayet": 77,
+"tur": "Mekki",
+"sayfa": 359,
+"cuz": 18
+},
+{
+"s": 26,
+"ad": "Şuara",
+"ar": "الشعراء",
+"ayet": 227,
+"tur": "Mekki",
+"sayfa": 367,
+"cuz": 19
+},
+{
+"s": 27,
+"ad": "Neml",
+"ar": "النمل",
+"ayet": 93,
+"tur": "Mekki",
+"sayfa": 377,
+"cuz": 19
+},
+{
+"s": 28,
+"ad": "Kasas",
+"ar": "القصص",
+"ayet": 88,
+"tur": "Mekki",
+"sayfa": 385,
+"cuz": 20
+},
+{
+"s": 29,
+"ad": "Ankebut",
+"ar": "العنكبوت",
+"ayet": 69,
+"tur": "Mekki",
+"sayfa": 396,
+"cuz": 20
+},
+{
+"s": 30,
+"ad": "Rum",
+"ar": "الروم",
+"ayet": 60,
+"tur": "Mekki",
+"sayfa": 404,
+"cuz": 21
+},
+{
+"s": 31,
+"ad": "Lokman",
+"ar": "لقمان",
+"ayet": 34,
+"tur": "Mekki",
+"sayfa": 411,
+"cuz": 21
+},
+{
+"s": 32,
+"ad": "Secde",
+"ar": "السجدة",
+"ayet": 30,
+"tur": "Mekki",
+"sayfa": 415,
+"cuz": 21
+},
+{
+"s": 33,
+"ad": "Ahzab",
+"ar": "الأحزاب",
+"ayet": 73,
+"tur": "Medeni",
+"sayfa": 418,
+"cuz": 21
+},
+{
+"s": 34,
+"ad": "Sebe",
+"ar": "سبإ",
+"ayet": 54,
+"tur": "Mekki",
+"sayfa": 428,
+"cuz": 22
+},
+{
+"s": 35,
+"ad": "Fatır",
+"ar": "فاطر",
+"ayet": 45,
+"tur": "Mekki",
+"sayfa": 434,
+"cuz": 22
+},
+{
+"s": 36,
+"ad": "Yasin",
+"ar": "يس",
+"ayet": 83,
+"tur": "Mekki",
+"sayfa": 440,
+"cuz": 22
+},
+{
+"s": 37,
+"ad": "Saffat",
+"ar": "الصافات",
+"ayet": 182,
+"tur": "Mekki",
+"sayfa": 446,
+"cuz": 23
+},
+{
+"s": 38,
+"ad": "Sad",
+"ar": "ص",
+"ayet": 88,
+"tur": "Mekki",
+"sayfa": 453,
+"cuz": 23
+},
+{
+"s": 39,
+"ad": "Zümer",
+"ar": "الزمر",
+"ayet": 75,
+"tur": "Mekki",
+"sayfa": 458,
+"cuz": 23
+},
+{
+"s": 40,
+"ad": "Mümin",
+"ar": "غافر",
+"ayet": 85,
+"tur": "Mekki",
+"sayfa": 467,
+"cuz": 24
+},
+{
+"s": 41,
+"ad": "Fussilet",
+"ar": "فصلت",
+"ayet": 54,
+"tur": "Mekki",
+"sayfa": 477,
+"cuz": 24
+},
+{
+"s": 42,
+"ad": "Şura",
+"ar": "الشورى",
+"ayet": 53,
+"tur": "Mekki",
+"sayfa": 483,
+"cuz": 25
+},
+{
+"s": 43,
+"ad": "Zuhruf",
+"ar": "الزخرف",
+"ayet": 89,
+"tur": "Mekki",
+"sayfa": 489,
+"cuz": 25
+},
+{
+"s": 44,
+"ad": "Duhan",
+"ar": "الدخان",
+"ayet": 59,
+"tur": "Mekki",
+"sayfa": 496,
+"cuz": 25
+},
+{
+"s": 45,
+"ad": "Casiye",
+"ar": "الجاثية",
+"ayet": 37,
+"tur": "Mekki",
+"sayfa": 499,
+"cuz": 25
+},
+{
+"s": 46,
+"ad": "Ahkaf",
+"ar": "الأحقاف",
+"ayet": 35,
+"tur": "Mekki",
+"sayfa": 502,
+"cuz": 26
+},
+{
+"s": 47,
+"ad": "Muhammed",
+"ar": "محمد",
+"ayet": 38,
+"tur": "Medeni",
+"sayfa": 507,
+"cuz": 26
+},
+{
+"s": 48,
+"ad": "Fetih",
+"ar": "الفتح",
+"ayet": 29,
+"tur": "Medeni",
+"sayfa": 511,
+"cuz": 26
+},
+{
+"s": 49,
+"ad": "Hucurat",
+"ar": "الحجرات",
+"ayet": 18,
+"tur": "Medeni",
+"sayfa": 515,
+"cuz": 26
+},
+{
+"s": 50,
+"ad": "Kaf",
+"ar": "ق",
+"ayet": 45,
+"tur": "Mekki",
+"sayfa": 518,
+"cuz": 26
+},
+{
+"s": 51,
+"ad": "Zariyat",
+"ar": "الذاريات",
+"ayet": 60,
+"tur": "Mekki",
+"sayfa": 520,
+"cuz": 26
+},
+{
+"s": 52,
+"ad": "Tur",
+"ar": "الطور",
+"ayet": 49,
+"tur": "Mekki",
+"sayfa": 523,
+"cuz": 27
+},
+{
+"s": 53,
+"ad": "Necm",
+"ar": "النجم",
+"ayet": 62,
+"tur": "Mekki",
+"sayfa": 526,
+"cuz": 27
+},
+{
+"s": 54,
+"ad": "Kamer",
+"ar": "القمر",
+"ayet": 55,
+"tur": "Mekki",
+"sayfa": 528,
+"cuz": 27
+},
+{
+"s": 55,
+"ad": "Rahman",
+"ar": "الرحمن",
+"ayet": 78,
+"tur": "Medeni",
+"sayfa": 531,
+"cuz": 27
+},
+{
+"s": 56,
+"ad": "Vakıa",
+"ar": "الواقعة",
+"ayet": 96,
+"tur": "Mekki",
+"sayfa": 534,
+"cuz": 27
+},
+{
+"s": 57,
+"ad": "Hadid",
+"ar": "الحديد",
+"ayet": 29,
+"tur": "Medeni",
+"sayfa": 537,
+"cuz": 27
+},
+{
+"s": 58,
+"ad": "Mücadele",
+"ar": "المجادلة",
+"ayet": 22,
+"tur": "Medeni",
+"sayfa": 542,
+"cuz": 28
+},
+{
+"s": 59,
+"ad": "Haşr",
+"ar": "الحشر",
+"ayet": 24,
+"tur": "Medeni",
+"sayfa": 545,
+"cuz": 28
+},
+{
+"s": 60,
+"ad": "Mümtehine",
+"ar": "الممتحنة",
+"ayet": 13,
+"tur": "Medeni",
+"sayfa": 549,
+"cuz": 28
+},
+{
+"s": 61,
+"ad": "Saff",
+"ar": "الصف",
+"ayet": 14,
+"tur": "Medeni",
+"sayfa": 551,
+"cuz": 28
+},
+{
+"s": 62,
+"ad": "Cuma",
+"ar": "الجمعة",
+"ayet": 11,
+"tur": "Medeni",
+"sayfa": 553,
+"cuz": 28
+},
+{
+"s": 63,
+"ad": "Münafikun",
+"ar": "المنافقون",
+"ayet": 11,
+"tur": "Medeni",
+"sayfa": 554,
+"cuz": 28
+},
+{
+"s": 64,
+"ad": "Tegabun",
+"ar": "التغابن",
+"ayet": 18,
+"tur": "Medeni",
+"sayfa": 556,
+"cuz": 28
+},
+{
+"s": 65,
+"ad": "Talak",
+"ar": "الطلاق",
+"ayet": 12,
+"tur": "Medeni",
+"sayfa": 558,
+"cuz": 28
+},
+{
+"s": 66,
+"ad": "Tahrim",
+"ar": "التحريم",
+"ayet": 12,
+"tur": "Medeni",
+"sayfa": 560,
+"cuz": 28
+},
+{
+"s": 67,
+"ad": "Mülk",
+"ar": "الملك",
+"ayet": 30,
+"tur": "Mekki",
+"sayfa": 562,
+"cuz": 29
+},
+{
+"s": 68,
+"ad": "Kalem",
+"ar": "القلم",
+"ayet": 52,
+"tur": "Mekki",
+"sayfa": 564,
+"cuz": 29
+},
+{
+"s": 69,
+"ad": "Hâkka",
+"ar": "الحاقة",
+"ayet": 52,
+"tur": "Mekki",
+"sayfa": 566,
+"cuz": 29
+},
+{
+"s": 70,
+"ad": "Mearic",
+"ar": "المعارج",
+"ayet": 44,
+"tur": "Mekki",
+"sayfa": 568,
+"cuz": 29
+},
+{
+"s": 71,
+"ad": "Nuh",
+"ar": "نوح",
+"ayet": 28,
+"tur": "Mekki",
+"sayfa": 570,
+"cuz": 29
+},
+{
+"s": 72,
+"ad": "Cin",
+"ar": "الجن",
+"ayet": 28,
+"tur": "Mekki",
+"sayfa": 572,
+"cuz": 29
+},
+{
+"s": 73,
+"ad": "Müzzemmil",
+"ar": "المزمل",
+"ayet": 20,
+"tur": "Mekki",
+"sayfa": 574,
+"cuz": 29
+},
+{
+"s": 74,
+"ad": "Müddessir",
+"ar": "المدثر",
+"ayet": 56,
+"tur": "Mekki",
+"sayfa": 575,
+"cuz": 29
+},
+{
+"s": 75,
+"ad": "Kıyame",
+"ar": "القيامة",
+"ayet": 40,
+"tur": "Mekki",
+"sayfa": 577,
+"cuz": 29
+},
+{
+"s": 76,
+"ad": "İnsan",
+"ar": "الانسان",
+"ayet": 31,
+"tur": "Medeni",
+"sayfa": 578,
+"cuz": 29
+},
+{
+"s": 77,
+"ad": "Mürselat",
+"ar": "المرسلات",
+"ayet": 50,
+"tur": "Mekki",
+"sayfa": 580,
+"cuz": 29
+},
+{
+"s": 78,
+"ad": "Nebe",
+"ar": "النبإ",
+"ayet": 40,
+"tur": "Mekki",
+"sayfa": 582,
+"cuz": 30
+},
+{
+"s": 79,
+"ad": "Naziat",
+"ar": "النازعات",
+"ayet": 46,
+"tur": "Mekki",
+"sayfa": 583,
+"cuz": 30
+},
+{
+"s": 80,
+"ad": "Abese",
+"ar": "عبس",
+"ayet": 42,
+"tur": "Mekki",
+"sayfa": 585,
+"cuz": 30
+},
+{
+"s": 81,
+"ad": "Tekvir",
+"ar": "التكوير",
+"ayet": 29,
+"tur": "Mekki",
+"sayfa": 586,
+"cuz": 30
+},
+{
+"s": 82,
+"ad": "İnfitar",
+"ar": "الإنفطار",
+"ayet": 19,
+"tur": "Mekki",
+"sayfa": 587,
+"cuz": 30
+},
+{
+"s": 83,
+"ad": "Mutaffifin",
+"ar": "المطففين",
+"ayet": 36,
+"tur": "Mekki",
+"sayfa": 587,
+"cuz": 30
+},
+{
+"s": 84,
+"ad": "İnşikak",
+"ar": "الإنشقاق",
+"ayet": 25,
+"tur": "Mekki",
+"sayfa": 589,
+"cuz": 30
+},
+{
+"s": 85,
+"ad": "Büruc",
+"ar": "البروج",
+"ayet": 22,
+"tur": "Mekki",
+"sayfa": 590,
+"cuz": 30
+},
+{
+"s": 86,
+"ad": "Tarık",
+"ar": "الطارق",
+"ayet": 17,
+"tur": "Mekki",
+"sayfa": 591,
+"cuz": 30
+},
+{
+"s": 87,
+"ad": "Ala",
+"ar": "الأعلى",
+"ayet": 19,
+"tur": "Mekki",
+"sayfa": 591,
+"cuz": 30
+},
+{
+"s": 88,
+"ad": "Gaşiye",
+"ar": "الغاشية",
+"ayet": 26,
+"tur": "Mekki",
+"sayfa": 592,
+"cuz": 30
+},
+{
+"s": 89,
+"ad": "Fecr",
+"ar": "الفجر",
+"ayet": 30,
+"tur": "Mekki",
+"sayfa": 593,
+"cuz": 30
+},
+{
+"s": 90,
+"ad": "Beled",
+"ar": "البلد",
+"ayet": 20,
+"tur": "Mekki",
+"sayfa": 594,
+"cuz": 30
+},
+{
+"s": 91,
+"ad": "Şems",
+"ar": "الشمس",
+"ayet": 15,
+"tur": "Mekki",
+"sayfa": 595,
+"cuz": 30
+},
+{
+"s": 92,
+"ad": "Leyl",
+"ar": "الليل",
+"ayet": 21,
+"tur": "Mekki",
+"sayfa": 595,
+"cuz": 30
+},
+{
+"s": 93,
+"ad": "Duha",
+"ar": "الضحى",
+"ayet": 11,
+"tur": "Mekki",
+"sayfa": 596,
+"cuz": 30
+},
+{
+"s": 94,
+"ad": "İnşirah",
+"ar": "الشرح",
+"ayet": 8,
+"tur": "Mekki",
+"sayfa": 596,
+"cuz": 30
+},
+{
+"s": 95,
+"ad": "Tin",
+"ar": "التين",
+"ayet": 8,
+"tur": "Mekki",
+"sayfa": 597,
+"cuz": 30
+},
+{
+"s": 96,
+"ad": "Alak",
+"ar": "العلق",
+"ayet": 19,
+"tur": "Mekki",
+"sayfa": 597,
+"cuz": 30
+},
+{
+"s": 97,
+"ad": "Kadir",
+"ar": "القدر",
+"ayet": 5,
+"tur": "Mekki",
+"sayfa": 598,
+"cuz": 30
+},
+{
+"s": 98,
+"ad": "Beyyine",
+"ar": "البينة",
+"ayet": 8,
+"tur": "Medeni",
+"sayfa": 598,
+"cuz": 30
+},
+{
+"s": 99,
+"ad": "Zilzal",
+"ar": "الزلزلة",
+"ayet": 8,
+"tur": "Medeni",
+"sayfa": 599,
+"cuz": 30
+},
+{
+"s": 100,
+"ad": "Adiyat",
+"ar": "العاديات",
+"ayet": 11,
+"tur": "Mekki",
+"sayfa": 599,
+"cuz": 30
+},
+{
+"s": 101,
+"ad": "Karia",
+"ar": "القارعة",
+"ayet": 11,
+"tur": "Mekki",
+"sayfa": 600,
+"cuz": 30
+},
+{
+"s": 102,
+"ad": "Tekasür",
+"ar": "التكاثر",
+"ayet": 8,
+"tur": "Mekki",
+"sayfa": 600,
+"cuz": 30
+},
+{
+"s": 103,
+"ad": "Asr",
+"ar": "العصر",
+"ayet": 3,
+"tur": "Mekki",
+"sayfa": 601,
+"cuz": 30
+},
+{
+"s": 104,
+"ad": "Hümeze",
+"ar": "الهمزة",
+"ayet": 9,
+"tur": "Mekki",
+"sayfa": 601,
+"cuz": 30
+},
+{
+"s": 105,
+"ad": "Fil",
+"ar": "الفيل",
+"ayet": 5,
+"tur": "Mekki",
+"sayfa": 601,
+"cuz": 30
+},
+{
+"s": 106,
+"ad": "Kureyş",
+"ar": "قريش",
+"ayet": 4,
+"tur": "Mekki",
+"sayfa": 602,
+"cuz": 30
+},
+{
+"s": 107,
+"ad": "Maun",
+"ar": "الماعون",
+"ayet": 7,
+"tur": "Mekki",
+"sayfa": 602,
+"cuz": 30
+},
+{
+"s": 108,
+"ad": "Kevser",
+"ar": "الكوثر",
+"ayet": 3,
+"tur": "Mekki",
+"sayfa": 602,
+"cuz": 30
+},
+{
+"s": 109,
+"ad": "Kafirun",
+"ar": "الكافرون",
+"ayet": 6,
+"tur": "Mekki",
+"sayfa": 603,
+"cuz": 30
+},
+{
+"s": 110,
+"ad": "Nasr",
+"ar": "النصر",
+"ayet": 3,
+"tur": "Medeni",
+"sayfa": 603,
+"cuz": 30
+},
+{
+"s": 111,
+"ad": "Tebbet",
+"ar": "المسد",
+"ayet": 5,
+"tur": "Mekki",
+"sayfa": 603,
+"cuz": 30
+},
+{
+"s": 112,
+"ad": "İhlas",
+"ar": "الإخلاص",
+"ayet": 4,
+"tur": "Mekki",
+"sayfa": 604,
+"cuz": 30
+},
+{
+"s": 113,
+"ad": "Felak",
+"ar": "الفلق",
+"ayet": 5,
+"tur": "Mekki",
+"sayfa": 604,
+"cuz": 30
+},
+{
+"s": 114,
+"ad": "Nas",
+"ar": "الناس",
+"ayet": 6,
+"tur": "Mekki",
+"sayfa": 604,
+"cuz": 30
+}
+]

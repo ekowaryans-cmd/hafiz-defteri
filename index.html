@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hafız Defteri</title>
+<meta name="description" content="Kur'an-ı Kerim hafızlık defteri: kelime kelime Arapça ve Latin harfli okunuş, ezber ve tekrar takibi.">
+<meta name="theme-color" content="#1d4a39">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Hafız Defteri">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preload" href="fonts/AmiriQuran-Regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="topbar">
+  <button class="icon-btn hidden" id="backBtn" aria-label="Geri">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M9 6l6 6-6 6"/></svg>
+  </button>
+  <h1 id="title">Hafız Defteri</h1>
+  <div id="topActions" class="row"></div>
+</header>
+
+<main id="view"></main>
+
+<div class="player hidden" id="player"></div>
+
+<nav class="tabs" id="tabs">
+  <a href="#/fihrist" data-tab="fihrist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M4 5h16M4 12h16M4 19h10"/></svg>Fihrist</a>
+  <a href="#/oku" data-tab="oku"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"><path d="M12 6c-2-1.5-5-2-8-1.5V19c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5V4.5C17 4 14 4.5 12 6z"/><path d="M12 6v14.5"/></svg>Oku</a>
+  <a href="#/tekrar" data-tab="tekrar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M4 12a8 8 0 0 1 14-5.3L20 9M20 4v5h-5M20 12a8 8 0 0 1-14 5.3L4 15M4 20v-5h5"/></svg>Tekrar</a>
+  <a href="#/ilerleme" data-tab="ilerleme"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="4" y="4" width="6" height="6" rx="1"/><rect x="14" y="4" width="6" height="6" rx="1"/><rect x="4" y="14" width="6" height="6" rx="1"/><rect x="14" y="14" width="6" height="6" rx="1"/></svg>İlerleme</a>
+  <a href="#/ayarlar" data-tab="ayarlar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1L7 17M17 7l2.1-2.1"/></svg>Ayarlar</a>
+</nav>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
